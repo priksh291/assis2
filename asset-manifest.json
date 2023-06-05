@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assis2/static/css/main.4a9638b2.css",
+    "main.js": "/assis2/static/js/main.730dc130.js",
+    "index.html": "/assis2/index.html",
+    "main.4a9638b2.css.map": "/assis2/static/css/main.4a9638b2.css.map",
+    "main.730dc130.js.map": "/assis2/static/js/main.730dc130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9638b2.css",
+    "static/js/main.730dc130.js"
+  ]
+}
